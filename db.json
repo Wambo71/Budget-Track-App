@@ -1,0 +1,193 @@
+{
+  "budgets": [
+    {
+      "id": 1,
+      "name": "Groceries",
+      "category": "Food",
+      "targetAmount": 15000,
+      "deadline": "2025-08-31",
+      "createdAt": "2025-07-01"
+    },
+    {
+      "id": 2,
+      "name": "Rent",
+      "category": "Housing",
+      "targetAmount": 30000,
+      "deadline": "2025-08-05",
+      "createdAt": "2025-07-01"
+    },
+    {
+      "id": 3,
+      "name": "Savings",
+      "category": "Finance",
+      "targetAmount": 10000,
+      "deadline": "2025-08-30",
+      "createdAt": "2025-07-01"
+    },
+    {
+      "id": 4,
+      "name": "Transportation",
+      "category": "Travel",
+      "targetAmount": 5000,
+      "deadline": "2025-08-20",
+      "createdAt": "2025-07-01"
+    },
+    {
+      "id": 5,
+      "name": "Entertainment",
+      "category": "Leisure",
+      "targetAmount": 7000,
+      "deadline": "2025-08-25",
+      "createdAt": "2025-07-01"
+    }
+  ],
+  "expenses": [
+    {
+      "id": 1,
+      "budgetId": 1,
+      "title": "Supermarket - Foodstuff",
+      "amount": 2500,
+      "date": "2025-07-03"
+    },
+    {
+      "id": 2,
+      "budgetId": 1,
+      "title": "Butchery - Meat",
+      "amount": 1200,
+      "date": "2025-07-05"
+    },
+    {
+      "id": 3,
+      "budgetId": 1,
+      "title": "Vegetable Market",
+      "amount": 800,
+      "date": "2025-07-06"
+    },
+    {
+      "id": 4,
+      "budgetId": 2,
+      "title": "Monthly Rent Payment",
+      "amount": 30000,
+      "date": "2025-07-02"
+    },
+    {
+      "id": 5,
+      "budgetId": 3,
+      "title": "Emergency Fund Deposit",
+      "amount": 3000,
+      "date": "2025-07-08"
+    },
+    {
+      "id": 6,
+      "budgetId": 3,
+      "title": "Savings for Laptop",
+      "amount": 2000,
+      "date": "2025-07-10"
+    },
+    {
+      "id": 7,
+      "budgetId": 3,
+      "title": "Retirement Fund",
+      "amount": 1000,
+      "date": "2025-07-13"
+    },
+    {
+      "id": 8,
+      "budgetId": 4,
+      "title": "Bus Pass",
+      "amount": 500,
+      "date": "2025-07-04"
+    },
+    {
+      "id": 9,
+      "budgetId": 4,
+      "title": "Taxi Ride",
+      "amount": 1500,
+      "date": "2025-07-07"
+    },
+    {
+      "id": 10,
+      "budgetId": 4,
+      "title": "Fuel",
+      "amount": 2000,
+      "date": "2025-07-09"
+    },
+    {
+      "id": 11,
+      "budgetId": 5,
+      "title": "Netflix Subscription",
+      "amount": 1500,
+      "date": "2025-07-01"
+    },
+    {
+      "id": 12,
+      "budgetId": 5,
+      "title": "Cinema Night",
+      "amount": 1200,
+      "date": "2025-07-11"
+    },
+    {
+      "id": 13,
+      "budgetId": 5,
+      "title": "Concert Ticket",
+      "amount": 2500,
+      "date": "2025-07-18"
+    },
+    {
+      "id": 14,
+      "budgetId": 1,
+      "title": "Bakery",
+      "amount": 600,
+      "date": "2025-07-14"
+    },
+    {
+      "id": 15,
+      "budgetId": 1,
+      "title": "Milk and Eggs",
+      "amount": 400,
+      "date": "2025-07-16"
+    },
+    {
+      "id": 16,
+      "budgetId": 1,
+      "title": "Fruit Market",
+      "amount": 900,
+      "date": "2025-07-17"
+    },
+    {
+      "id": 17,
+      "budgetId": 3,
+      "title": "Holiday Savings",
+      "amount": 1500,
+      "date": "2025-07-15"
+    },
+    {
+      "id": 18,
+      "budgetId": 4,
+      "title": "Motorbike Repair",
+      "amount": 1000,
+      "date": "2025-07-12"
+    },
+    {
+      "id": 19,
+      "budgetId": 5,
+      "title": "Game Purchase",
+      "amount": 1800,
+      "date": "2025-07-20"
+    },
+    {
+      "id": 20,
+      "budgetId": 2,
+      "title": "Maintenance Fee",
+      "amount": 2500,
+      "date": "2025-07-22"
+    },
+    {
+      "id": 21,
+      "budgetId": 2,
+      "title": "Water & Garbage",
+      "amount": 1000,
+      "date": "2025-07-23"
+    }
+  ]
+}
