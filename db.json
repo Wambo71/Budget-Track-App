@@ -39,6 +39,39 @@
       "targetAmount": 7000,
       "deadline": "2025-08-25",
       "createdAt": "2025-07-01"
+    },
+    {
+      "id": 6,
+      "name": "School Fees",
+      "category": "Education",
+      "targetAmount": 120000,
+      "deadline": "2025-08-20",
+      "createdAt":"2025-07-01"
+    },
+    {
+      "id": 7,
+      "name": "Medical Expenses",
+      "category": "Health",
+      "targetAmount": 25000,
+      "deadline": "2025-08-05",
+      "createdAt":"2025-07-01"
+    },
+    {
+      "id": 8,
+      "name": "Emergency fund",
+      "category": "savings",
+      "targetAmount": 10000,
+      "deadline": "2025-08-25",
+      "createdAt":"2025-07-01"
+
+    },
+    {
+      "id": 9,
+      "name": "Car Maintenance",
+      "category": "Transport",
+      "targetAmount": 30000,
+      "deadline": "2025-08-30",
+      "createdAt": "2025-07-01"
     }
   ],
   "expenses": [
